@@ -68,19 +68,10 @@
             border-radius: 0.25rem;
         }
 
-        /*thead {
-            background-color: #f7e8e3;
-            border: 2px solid #f1ae98;
-        }*/
-
         tr {
             border-bottom: 1.5px solid #f1ae98;
         }
 
-        /*.row {
-            padding: 0 !important;
-            margin-right: -87px;
-        }*/
 
         .table {
             width: 100%;
